@@ -1,11 +1,15 @@
-# Ember-cli-visjs
+# Ember-cli-vis-js
 
-This README outlines the details of collaborating on this Ember addon.
+This addon is a wrapper for the [Vis.js library](https://github.com/almende/vis)
+
+## Changelog
+As of version 0.0.1, this only exposes the Vis Timeline as a component `{{visjs-timeline data=data options=options}}`
+
 
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd ember-cli-visjs`
+* `cd ember-cli-vis-js`
 * `npm install`
 * `bower install`
 

@@ -2,7 +2,7 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-cli-visjs',
+  name: 'ember-cli-vis-js',
 
   included(parent) {
     this._super.included.apply(this, arguments);

@@ -1,7 +1,7 @@
 import { moduleForComponent, test } from 'ember-qunit';
 import hbs from 'htmlbars-inline-precompile';
 
-moduleForComponent('vis-timeline', 'Integration | Component | vis timeline', {
+moduleForComponent('visjs-timeline', 'Integration | Component | visjs timeline', {
   integration: true
 });
 
@@ -19,7 +19,7 @@ test('it renders', function(assert) {
 
   this.set('data', data);
 
-  this.render(hbs`{{vis-timeline data=data}}`);
+  this.render(hbs`{{visjs-timeline data=data}}`);
 
   assert.equal(this.$().text().trim(), '');
 });

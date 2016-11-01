@@ -1,6 +1,6 @@
 /* globals vis*/
 import Ember from 'ember';
-import layout from '../templates/components/vis-timeline';
+import layout from '../templates/components/visjs-timeline';
 
 export default Ember.Component.extend({
   layout,

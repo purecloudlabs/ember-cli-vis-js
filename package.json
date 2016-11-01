@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-visjs",
+  "name": "ember-cli-vis-js",
   "version": "0.0.1",
   "description": "Ember CLI wrapper for vis.js",
   "directories": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MyPureCloud/ember-cli-visjs.git"
+    "url": "https://github.com/MyPureCloud/ember-cli-vis-js.git"
   },
   "engines": {
     "node": ">= 0.12.0"
