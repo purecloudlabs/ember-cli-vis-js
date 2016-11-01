@@ -2,7 +2,7 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-cli-visjs-timeline',
+  name: 'ember-cli-visjs',
 
   included(parent) {
     this._super.included.apply(this, arguments);
