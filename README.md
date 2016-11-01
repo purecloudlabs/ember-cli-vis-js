@@ -1,11 +1,11 @@
-# Ember-cli-visjs-timeline
+# Ember-cli-visjs
 
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd ember-cli-visjs-timeline`
+* `cd ember-cli-visjs`
 * `npm install`
 * `bower install`
 
