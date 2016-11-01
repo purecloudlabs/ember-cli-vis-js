@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-visjs-timeline/components/vis-timeline';
