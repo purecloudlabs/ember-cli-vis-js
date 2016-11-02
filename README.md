@@ -3,7 +3,7 @@
 This addon is a wrapper for the [Vis.js library](https://github.com/almende/vis)
 
 ## Changelog
-As of version 0.0.1, this only exposes the Vis Timeline as a component `{{visjs-timeline data=data options=options}}`
+As of version 0.0.2, this only exposes the Vis Timeline as a component `{{visjs-timeline items=items groups=groups options=options}}`
 
 
 ## Installation
